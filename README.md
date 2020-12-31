@@ -2,7 +2,6 @@
 1. Go to [https://api.slack.com/apps]
 2. Click on 'Create New App' (Give App name and slack Workspace) and Create App.
 
-
 ### Basic Information
 1. Click on your newly created App.
 2. Go to 'Basic Information' and Add features and functionality for your app.
